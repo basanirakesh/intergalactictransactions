@@ -26,7 +26,7 @@ In case 3 - I used results of case 1 and case 2 to determine the output value. <
 In case 4 - I returned default output. <br>
 
 **How to run** <br> <br>
-Once you check-out the project, you can use either eclipse or IntelliJ to run it. <br><br>
+Once you check-out the project, you can use either use eclipse or IntelliJ to run it. <br>
 In case of no IDE, use following commands from command line <br> 
 1. From command prompt to go location of InterGalacticTransaction.java file <br>
 2. run javac InterGalacticTransaction.java <br>
