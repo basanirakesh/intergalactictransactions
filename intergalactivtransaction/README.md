@@ -27,7 +27,7 @@ In case 4 - I returned default output. <br>
 
 **How to run** <br> <br>
 Once you check-out the project, you can use either eclipse or IntelliJ to run it. <br><br>
-In case of no IDE, use following commands from command line <br> <br>
+In case of no IDE, use following commands from command line <br> 
 1. From command prompt to go location of InterGalacticTransaction.java file <br>
 2. run javac InterGalacticTransaction.java <br>
 3. run java InterGalacticTransaction
