@@ -30,4 +30,4 @@ Once you check-out the project, you can use either use eclipse or IntelliJ to ru
 In case of no IDE, use following commands from command line <br> 
 1. From command prompt to go location of InterGalacticTransaction.java file <br>
 2. run javac InterGalacticTransaction.java <br>
-3. run java InterGalacticTransactionss
+3. run java InterGalacticTransactionsss
